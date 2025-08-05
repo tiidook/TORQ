@@ -1,0 +1,1 @@
+export type IpStateItem = { value: string, error: boolean, countryCode?: string, timezone?: string }
